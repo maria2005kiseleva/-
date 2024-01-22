@@ -1,0 +1,8 @@
+C:\Users\student\source\repos\практ\практ\bin\Debug\практ.exe.config
+C:\Users\student\source\repos\практ\практ\bin\Debug\практ.exe
+C:\Users\student\source\repos\практ\практ\bin\Debug\практ.pdb
+C:\Users\student\source\repos\практ\практ\obj\Debug\практ.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\практ\практ\obj\Debug\практ.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\практ\практ\obj\Debug\практ.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\практ\практ\obj\Debug\практ.exe
+C:\Users\student\source\repos\практ\практ\obj\Debug\практ.pdb
